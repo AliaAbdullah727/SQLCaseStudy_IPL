@@ -1,5 +1,7 @@
 🏏 IPL Team Analysis using SQL
 A collection of SQL queries that analyze IPL auction data using real-world business questions. This project demonstrates SQL skills ranging from basic aggregations to advanced analytical techniques such as Common Table Expressions (CTEs), Window Functions, Correlated Subqueries, and Conditional Logic.
+
+
 📌 Project Overview
 The dataset contains information about IPL players, including:
 Player Name
@@ -8,6 +10,8 @@ Role
 Price (in Crores)
 Player Type (Indian/Overseas)
 Using SQL, the project answers common analytical questions that IPL franchises, analysts, or cricket enthusiasts might ask.
+
+
 🛠️ SQL Concepts Used
 SELECT Statements
 Filtering with WHERE
