@@ -1,4 +1,6 @@
-🏏 IPL Team Analysis using SQL
+
+# SQLCaseStudy_IPL
+#IPL Team Analysis using SQL
 A collection of SQL queries that analyze IPL auction data using real-world business questions. This project demonstrates SQL skills ranging from basic aggregations to advanced analytical techniques such as Common Table Expressions (CTEs), Window Functions, Correlated Subqueries, and Conditional Logic.
 
 
@@ -65,4 +67,4 @@ SQL Server (T-SQL)
 Microsoft SQL Server Management Studio (SSMS)
 
 Suggestions and improvements are welcome. Feel free to fork the repository and submit a pull request.
-# SQLCaseStudy_IPL
+
