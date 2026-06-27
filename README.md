@@ -31,6 +31,8 @@ MAX() OVER()
 Correlated Subqueries
 UNION ALL
 JOIN Operations
+
+
 📊 Analysis Performed
 1. Team Spending Analysis
 Calculate the total amount spent by each IPL team.
