@@ -16,22 +16,39 @@ Using SQL, the project answers common analytical questions that IPL franchises, 
 
 🛠️ SQL Concepts Used
 SELECT Statements
+
 Filtering with WHERE
+
 GROUP BY
+
 ORDER BY
+
 Aggregate Functions
+
 SUM()
+
 AVG()
+
 MAX()
+
 COUNT()
+
 CASE Expressions
+
 Common Table Expressions (CTEs)
+
 Window Functions
+
 ROW_NUMBER()
+
 SUM() OVER()
+
 MAX() OVER()
+
 Correlated Subqueries
+
 UNION ALL
+
 JOIN Operations
 
 
